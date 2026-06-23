@@ -3,34 +3,34 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronaldorcw&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldorcw&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://img.shields.io/badge/Private_projects-2-9146FF?style=for-the-badge" alt="private projects badge" />
+  <img src="https://img.shields.io/badge/Status-In_development-22C55E?style=for-the-badge" alt="status badge" />
+  <img src="https://img.shields.io/badge/Focus-Full_stack-0EA5E9?style=for-the-badge" alt="focus badge" />
 </div>
 
-###
+<br>
 
-<!-- Troque apenas o src abaixo quando quiser mudar a imagem lateral -->
-<img align="right" height="150" src="./lofi-dev-animated-v2.gif" alt="lo-fi developer working at computer" />
-
-###
+<table>
+  <tr>
+    <td valign="top" width="72%">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
 </div>
 
-###
+<br>
 
 <div align="left">
   <a href="SEU_LINK_YOUTUBE">
@@ -47,7 +47,22 @@
   </a>
 </div>
 
-###
+<br>
+
+<div align="left">
+  <p>
+    Currently building two projects: one planned for public release and another private project for study, experimentation, and technical growth.
+  </p>
+</div>
+
+  </td>
+  <td valign="top" align="right" width="28%">
+    <img width="220" src="./lofi-dev-animated-v2.gif" alt="lo-fi developer working at computer" />
+  </td>
+  </tr>
+</table>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronaldorcw/Ronaldorcw/pacman-output/galaga-contribution-graph-dark.svg">

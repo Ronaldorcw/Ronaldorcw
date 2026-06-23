@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Private_projects-2-9146FF?style=for-the-badge" alt="private projects badge" />
+  <img src="https://img.shields.io/badge/Private_projects-9-9146FF?style=for-the-badge" alt="private projects badge" />
   <img src="https://img.shields.io/badge/Status-In_development-22C55E?style=for-the-badge" alt="status badge" />
   <img src="https://img.shields.io/badge/Focus-Full_stack-0EA5E9?style=for-the-badge" alt="focus badge" />
 </div>

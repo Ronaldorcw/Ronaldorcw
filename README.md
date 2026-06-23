@@ -77,3 +77,23 @@ Some projects are experiments for study, validation and technical growth. Others
 **Real problems. Practical tools. Continuous learning.**
 
 </div>
+
+---
+
+<details align="center">
+  <summary>🎮 Retro Corner</summary>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronaldorcw/Ronaldorcw/pacman-output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronaldorcw/Ronaldorcw/pacman-output/galaga-contribution-graph.svg">
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Ronaldorcw/Ronaldorcw/pacman-output/galaga-contribution-graph.svg">
+  </picture>
+
+  <br/>
+  <br/>
+
+Classic arcade games, retro aesthetics and digital culture.
+
+</details>

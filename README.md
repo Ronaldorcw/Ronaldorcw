@@ -10,7 +10,7 @@
 ###
 
 <!-- Troque apenas o src abaixo quando quiser mudar a imagem lateral -->
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="profile gif" />
+<img align="right" height="150" src="./lofi-dev-animated-v2.gif" alt="lo-fi developer working at computer" />
 
 ###
 

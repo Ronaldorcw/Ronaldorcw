@@ -51,7 +51,7 @@
 
 <div align="left">
   <p>
-    Currently building two projects: one planned for public release and another private project for study, experimentation, and technical growth.
+    Currently building nine projects: one planned for public release and another private project for study, experimentation, and technical growth.
   </p>
 </div>
 
